@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 328"
+  short_description: "贴纸复徽：上半保留原照，下半把主体收成模切贴纸般的复古小志徽章"
+  default_prompt: "Use $xxd-panel-328 to transform my photograph following the complete canonical source brief."
