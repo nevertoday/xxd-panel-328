@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 328｜Retro Sticker Badge: keeps the photo and turns its subject into one compact retro die-cut sticker badge with a story — a strongly recognisable, slightly exaggerated silhouette built from simple geometric shapes and flat colour, outlined with a thick, slightly hand-made contour, plus a few stars, lines, dots or plant motifs. Limited spot colours such as cream, warm yellow, pink, coral orange, retro blue, plant green and deep brown-black, with screenprint texture, risograph grain, ink flaws and slight misregistration; a short name or word in a bold, hand-cut display type that may overlap or wrap around the subject, set in wide whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-328 or asks for a retro zine sticker, die-cut badge or naive collectible emblem from a photo.",
+  "short_description": "贴纸复徽：把照片主体收成一枚粗轮廓、专色印刷、文字可环绕的复古模切贴纸徽章",
+  "zh-CN": {
+    "name": "贴纸复徽",
+    "tagline": "保留原照片，把主体收成一枚像模切贴纸的复古小志徽章。",
+    "look": "照片保持原样，设计部分把主体做成一枚紧凑完整的贴纸徽章：剪影一眼能认，比例略夸张，由简单几何形和平面色块组成，外面一圈粗厚、带一点手工误差的轮廓线。旁边可以有几颗星星、几条线、圆点或植物纹，但不成场景。颜色是少量专色，如奶油白、暖黄、粉红、珊瑚橙、复古蓝、植物绿、深棕黑，带丝网纹理、孔版颗粒、油墨瑕疵和轻微套色偏移。文字是一个短名字或词，用粗厚、像手工切出来的展示字体，可以压在主体上或绕着它排；四周留白。",
+    "traits": ["模切贴纸", "复古小志", "粗轮廓", "专色印刷", "收藏徽章"],
+    "good": [
+      "剪影鲜明、有性格的主体：一只柯基、一辆老式公交、一顶露营帐篷、一只鹦鹉",
+      "旅行和探险相关的照片：登山者、海边冲浪板、公路上的房车",
+      "想做成旅行纪念贴纸、周边徽章、小志封面或行李箱贴的照片"
+    ],
+    "poor": [
+      "需要写实比例或细节的照片：人像肖像、产品细节、建筑图纸",
+      "安静、留白感强、只想要很轻很淡结果的需求",
+      "想要企业 VI、光滑矢量、3D 或现成卡通模板的效果"
+    ]
+  },
+  "en": {
+    "name": "Retro Sticker Badge",
+    "tagline": "Keeps your photo and turns the subject into one retro zine badge that looks like a die-cut sticker.",
+    "look": "The photo stays as it is. The design turns the subject into a compact, complete sticker badge: an instantly recognisable silhouette with slightly exaggerated proportions, built from simple geometric shapes and flat colour, wrapped in a thick outline with a little handmade error. A few stars, lines, dots or plant motifs may sit around it, never a scene. A small set of spot colours is used, such as cream, warm yellow, pink, coral orange, retro blue, plant green and deep brown-black, with screenprint texture, risograph grain, ink flaws and slight misregistration. Text is a short name or word in a bold display type that looks hand-cut and may overlap the subject or curve around it; whitespace surrounds the badge.",
+    "traits": ["Die-cut sticker", "Retro zine", "Thick outline", "Spot-colour print", "Collectible badge"],
+    "good": [
+      "Subjects with a bold silhouette and character: a corgi, a vintage bus, a camping tent, a parrot",
+      "Photos about travel and adventure: a hiker, a surfboard on the beach, a camper van on the road",
+      "Photos you want as a travel sticker, merchandise badge, zine cover or suitcase label"
+    ],
+    "poor": [
+      "Photos that need realistic proportion or detail: portraits, product details, architectural drawings",
+      "Requests for something very quiet, airy and faint",
+      "Wanting corporate identity, glossy vector, 3D or a ready-made cartoon template"
+    ]
+  },
+  "ja": {
+    "name": "レトロステッカーバッジ",
+    "tagline": "写真はそのままに、主役をダイカットステッカーのようなレトロな ZINE 風バッジにします。",
+    "look": "写真はそのまま残し、デザイン側は主役をコンパクトでまとまったステッカーバッジにします。シルエットはひと目でわかり、比率は少し誇張され、シンプルな幾何学形と平らな色面でできていて、外側を手仕事らしいずれのある太い輪郭線が囲みます。周りに星、線、ドット、植物模様を少し添えても、場面にはしません。色は少数の特色で、クリーム、暖かい黄、ピンク、コーラルオレンジ、レトロな青、植物の緑、こげ茶がかった黒などに、シルクスクリーンの質感、リソグラフの粒子、インクの傷、わずかな版ずれがあります。文字は短い名前や一語で、手で切り出したような太いディスプレイ書体を使い、主役に重ねたり周りに沿わせたりします。周りには余白をとります。",
+    "traits": ["ダイカットステッカー", "レトロな ZINE", "太い輪郭", "特色印刷", "コレクションのバッジ"],
+    "good": [
+      "シルエットがはっきりして個性のある主役：コーギー、古いバス、キャンプのテント、オウム",
+      "旅や冒険にまつわる写真：登山者、浜辺のサーフボード、道を走るキャンピングカー",
+      "旅のステッカー、グッズのバッジ、ZINE の表紙、スーツケースのラベルにしたい写真"
+    ],
+    "poor": [
+      "写実的な比率や細部が必要な写真：ポートレート、商品の細部、建築図面",
+      "とても静かで余白が多く、淡い仕上がりを求める場合",
+      "企業の VI、なめらかなベクター、3D、既製のキャラクターのひな形を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "레트로 스티커 배지",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 모양대로 오린 스티커 같은 레트로 진(zine) 배지로 만듭니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 주인공을 작고 완결된 스티커 배지로 만듭니다. 실루엣은 한눈에 알아볼 수 있고 비율은 살짝 과장되며, 단순한 기하 도형과 평면 색면으로 이루어지고, 바깥을 손작업다운 오차가 있는 두꺼운 윤곽선이 감쌉니다. 둘레에 별, 선, 점, 식물 무늬를 몇 개 둘 수 있지만 장면이 되지는 않습니다. 색은 적은 수의 별색으로 크림, 따뜻한 노랑, 분홍, 코랄 오렌지, 레트로 블루, 식물 초록, 짙은 갈색빛 검정 등을 쓰며, 실크스크린 질감, 리소 입자, 잉크 흠, 살짝 어긋난 판이 있습니다. 글자는 짧은 이름이나 단어로, 손으로 오려 낸 듯한 굵은 디스플레이 서체를 쓰고 주인공 위에 겹치거나 둘레를 따라 돌게 합니다. 배지 둘레는 비워 둡니다.",
+    "traits": ["다이컷 스티커", "레트로 진", "두꺼운 윤곽", "별색 인쇄", "소장용 배지"],
+    "good": [
+      "실루엣이 뚜렷하고 개성 있는 주인공: 코기, 옛날 버스, 캠핑 텐트, 앵무새",
+      "여행과 모험에 관한 사진: 등산객, 해변의 서프보드, 길 위의 캠핑카",
+      "여행 스티커, 굿즈 배지, 진 표지, 여행가방 라벨로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실적인 비율이나 세부가 필요한 사진: 인물 초상, 제품 디테일, 건축 도면",
+      "아주 조용하고 여백이 많으며 옅은 결과를 원하는 경우",
+      "기업 VI, 매끈한 벡터, 3D, 기성 캐릭터 템플릿을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شارة ملصق قديمة الطراز",
+    "tagline": "يحتفظ بصورتك ويحوّل عنصرها إلى شارة بطابع المجلات المستقلة القديمة تشبه ملصقاً مقصوصاً على شكله.",
+    "look": "تبقى الصورة كما هي، ويحوّل التصميم العنصر إلى شارة ملصق متماسكة مكتملة: صورة ظلية تُعرف فوراً بنِسب مبالغ فيها قليلاً، مبنية من أشكال هندسية بسيطة ومساحات لونية مسطحة، ويحيط بها خط خارجي سميك فيه أخطاء يدوية خفيفة. قد تحيط بها بضع نجوم أو خطوط أو نقاط أو زخارف نباتية، من دون أن تصير مشهداً. تُستعمل مجموعة صغيرة من الألوان الخاصة، مثل الكريمي والأصفر الدافئ والوردي والبرتقالي المرجاني والأزرق القديم والأخضر النباتي والأسود المائل إلى البني، مع ملمس الشاشة الحريرية وحبيبات الريزوغراف وعيوب الحبر وانزياح طفيف. النص اسم قصير أو كلمة بخط عرض عريض يبدو مقصوصاً باليد، وقد يتراكب على العنصر أو يلتف حوله؛ ويحيط بالشارة فراغ.",
+    "traits": ["ملصق مقصوص", "مجلة مستقلة قديمة", "خط خارجي سميك", "طباعة بألوان خاصة", "شارة للاقتناء"],
+    "good": [
+      "عناصر ذات صورة ظلية جريئة وشخصية: كلب كورغي، حافلة قديمة، خيمة تخييم، ببغاء",
+      "صور عن السفر والمغامرة: متسلق جبال، لوح ركوب أمواج على الشاطئ، عربة تخييم على الطريق",
+      "صور تريدها ملصق سفر أو شارة منتجات أو غلافاً لمجلة مستقلة أو بطاقة لحقيبة سفر"
+    ],
+    "poor": [
+      "صور تحتاج إلى نِسب واقعية أو تفاصيل: البورتريه، تفاصيل المنتجات، الرسوم المعمارية",
+      "طلب نتيجة هادئة جداً واسعة الفراغ باهتة الألوان",
+      "الرغبة في هوية مؤسسية أو رسم متجهي لامع أو مجسّم أو قالب كرتوني جاهز"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-328
-description: "Create XXD Panel 328 raster artwork: a faithful photograph paired with one retro zine sticker-badge with a thick hand-cut contour and spot color. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-328 or asks for this 贴纸复徽 style."
+description: "XXD Panel 328｜Retro Sticker Badge: keeps the photo and turns its subject into one compact retro die-cut sticker badge with a story — a strongly recognisable, slightly exaggerated silhouette built from simple geometric shapes and flat colour, outlined with a thick, slightly hand-made contour, plus a few stars, lines, dots or plant motifs. Limited spot colours such as cream, warm yellow, pink, coral orange, retro blue, plant green and deep brown-black, with screenprint texture, risograph grain, ink flaws and slight misregistration; a short name or word in a bold, hand-cut display type that may overlap or wrap around the subject, set in wide whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-328 or asks for a retro zine sticker, die-cut badge or naive collectible emblem from a photo."
 ---
 
 # XXD Panel 328
